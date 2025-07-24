@@ -1,2 +1,8 @@
-# gym-management-master
-The GYM Management System is a software application designed to manage gym operations efficiently. It handles member registrations, membership plans, trainer assignments, attendance tracking, and payment management. With a user-friendly interface and centralized data handling, it streamlines daily tasks for gym owners, trainers, and members.
+# gym-management
+Gym Management System provides an easy to use interface for the users and a database for the admin to maintain the records of gym members.
+
+## Screenshots
+### Login Page
+![login page](/images/login.png)
+### Members registration page
+![Members registration page](/images/member.png)
